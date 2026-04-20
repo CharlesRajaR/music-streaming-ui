@@ -31,6 +31,7 @@
   background-color: rgb(12, 12, 12);
   padding: 20px;
   border-radius: 5px;
+  border:1px solid #0a65ee;
 }
 
 .signup-form label {
@@ -49,6 +50,7 @@
   margin-bottom: 20px;
   width: 100%;
   margin: none;
+  
 }
 
 .signup-form input:focus {
