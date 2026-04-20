@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-import { Container, Navbar } from "react-bootstrap";
-import { Link } from "react-router-dom";
-=======
 import { Container, Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "bootstrap-icons/font/bootstrap-icons.css";
->>>>>>> 8f57f0c (initial commit)
 
 const UserAuthenticationNavbar = () => {
   return (
     <>
-<<<<<<< HEAD
       {/* <Navbar variant="dark" expand="lg" fixed="top">
         <Container>
           <Navbar.Brand as={Link} to="/">
@@ -21,7 +15,6 @@ const UserAuthenticationNavbar = () => {
           </Navbar.Brand>
         </Container>
       </Navbar> */}
-=======
       <div
         style={{
           padding: "10px",
@@ -112,7 +105,6 @@ const UserAuthenticationNavbar = () => {
           </div>
         </div>
       </div>
->>>>>>> 8f57f0c (initial commit)
     </>
   );
 };
