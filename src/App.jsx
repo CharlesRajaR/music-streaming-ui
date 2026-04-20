@@ -1,20 +1,14 @@
 import { Button } from "react-bootstrap";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Signup from "./pages/Signup";
-<<<<<<< HEAD
-=======
 import UserAuthenticationNavbar from "./components/User/UserAuthenticationNavbar";
 import Artists from "./pages/Artists";
->>>>>>> 8f57f0c (initial commit)
 // import Login from "./pages/Login"
 
 function App() {
   return (
     <>
       {/* <Login/> */}
-<<<<<<< HEAD
-      <Signup />
-=======
       {/* <Signup /> */}
       {/* <NotificationContextProvider/> */}
       {/* <div
@@ -30,7 +24,6 @@ function App() {
       </div> */}
 
       <Artists />
->>>>>>> 8f57f0c (initial commit)
     </>
   );
 }
