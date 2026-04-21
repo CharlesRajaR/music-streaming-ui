@@ -31,6 +31,10 @@
   background-color: rgb(12, 12, 12);
   padding: 20px;
   border-radius: 5px;
+  /* border:1px solid #0a65ee; */
+}
+
+.signup-form:hover {
   border:1px solid #0a65ee;
 }
 
