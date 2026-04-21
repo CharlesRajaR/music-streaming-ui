@@ -1,5 +1,6 @@
 import ArtistNavbar from "../components/Artist/ArtistNavbar";
 import ArtistSignUp from "../components/Artist/ArtistSignup";
+import ArtistLogin from "../components/Artist/ArtistLogin";
 import VideoCarousel from "../components/VideoCarousel";
 
 const Artists = () => {
@@ -7,7 +8,8 @@ const Artists = () => {
     <>
       {/* <VideoCarousel /> */}
       {/* <ArtistNavbar /> */}
-      <ArtistSignUp/>
+      {/* <ArtistSignUp/> */}
+      <ArtistLogin/>
     </>
   );
 };
